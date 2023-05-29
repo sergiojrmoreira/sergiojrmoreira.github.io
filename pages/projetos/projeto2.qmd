@@ -1,0 +1,16 @@
+---
+title: "Projeto 2: O NATAL DE POIROT"
+lang: pt
+author: "Agatha Christie"
+date: "05-29-2023"
+image: ../assets/project1.jpg
+categories:
+    - Categoria A
+    - Categoria B
+---
+
+# 
+
+```{r}
+hist(rnorm(100))
+```
